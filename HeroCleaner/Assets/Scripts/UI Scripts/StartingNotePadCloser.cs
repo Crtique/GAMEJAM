@@ -17,7 +17,7 @@ public class StartingNotePadCloser : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Escape))
+        if (Input.GetKeyDown(KeyCode.Tab))
         {
             Time.timeScale = 1.0f;
             startingNotePadScreen.enabled = false;
