@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{1BAD417D-D43B-305B-F945-62B2155C7435}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\trashcleaning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BAD417D-D43B-305B-F945-62B2155C7435}|Assembly-CSharp.csproj|C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\assets\\scripts\\questscripts\\questmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BAD417D-D43B-305B-F945-62B2155C7435}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\questscripts\\questmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1BAD417D-D43B-305B-F945-62B2155C7435}|Assembly-CSharp.csproj|c:\\users\\je4vo\\onedrive\\documents\\github\\gamejam\\herocleaner\\assets\\scripts\\questscripts\\questui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1BAD417D-D43B-305B-F945-62B2155C7435}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\questscripts\\questui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAD417D-D43B-305B-F945-62B2155C7435}|Assembly-CSharp.csproj|C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\assets\\scripts\\questscripts\\questmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAD417D-D43B-305B-F945-62B2155C7435}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\questscripts\\questmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1BAD417D-D43B-305B-F945-62B2155C7435}|Assembly-CSharp.csproj|C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\assets\\scripts\\ui scripts\\notepad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -82,7 +82,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "QuestUI.cs",
               "DocumentMoniker": "C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\Assets\\Scripts\\QuestScripts\\QuestUI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\QuestScripts\\QuestUI.cs",
@@ -140,7 +140,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\TrashCleaning.cs",
               "ToolTip": "C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\Assets\\Scripts\\TrashCleaning.cs",
               "RelativeToolTip": "Assets\\Scripts\\TrashCleaning.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBsAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-15T07:59:06.539Z",
               "EditorCaption": ""
@@ -159,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "QuestManager.cs",
               "DocumentMoniker": "C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\Assets\\Scripts\\QuestScripts\\QuestManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\QuestScripts\\QuestManager.cs",

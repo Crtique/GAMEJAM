@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class QuestManager : MonoBehaviour
 {
@@ -15,8 +16,6 @@ public class QuestManager : MonoBehaviour
     private int shelfOneOrganized;
     private int shelfTwoOrganized;
 
-    // Grab the Win Screen
-    [SerializeField] private Canvas winScreen;
 
     bool questCompleted;
 
@@ -27,7 +26,6 @@ public class QuestManager : MonoBehaviour
     private void Start()
     {
         StartQuest(startingQuest);
-        winScreen.enabled = false;
     }
 
     // ----- START GAME ----- //
@@ -121,8 +119,7 @@ public class QuestManager : MonoBehaviour
             // Win Screen Logic
             if (questCompleted)
             {
-                Time.timeScale = 0;
-                winScreen.enabled = true;
+                SceneManager.LoadScene("WinScreen");
             }
         }
     }
