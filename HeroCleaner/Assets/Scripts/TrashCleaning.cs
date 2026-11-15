@@ -1,3 +1,4 @@
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class TrashCleaning : MonoBehaviour
@@ -23,6 +24,8 @@ public class TrashCleaning : MonoBehaviour
 
         if (Input.GetKey(KeyCode.E))
         {
+            
+
             cleaningTimer += Time.deltaTime;
 
             float progress = cleaningTimer / cleaningTime;

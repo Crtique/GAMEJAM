@@ -17,7 +17,7 @@ public class QuestUI : MonoBehaviour
 
         trashText.text = "Trash: " + trash + "/" + quest.trashRequiered;
         clothesText.text = "Gather Clothes: " + laundry + "/" + quest.laundryRequired;
-        shelfOneText.text = "Organize Shelf 1: " + shelfOne + "/" + quest.shelfTypeOneRequired;
-        shelfTwoText.text = "Organize Shelf 2: " + ShelfTwo + "/" + quest.shelfTypeTwoRequired;
+        shelfOneText.text = "Organize Award Shelf: " + shelfOne + "/" + quest.shelfTypeOneRequired;
+        shelfTwoText.text = "Organize Trinkets Shelf: " + ShelfTwo + "/" + quest.shelfTypeTwoRequired;
     }
 }

@@ -15,6 +15,9 @@ public class QuestManager : MonoBehaviour
     private int shelfOneOrganized;
     private int shelfTwoOrganized;
 
+    // Grab the Win Screen
+    [SerializeField] private Canvas winScreen;
+
     bool questCompleted;
 
     private void Awake()
@@ -24,6 +27,7 @@ public class QuestManager : MonoBehaviour
     private void Start()
     {
         StartQuest(startingQuest);
+        winScreen.enabled = false;
     }
 
     // ----- START GAME ----- //
@@ -115,6 +119,11 @@ public class QuestManager : MonoBehaviour
             Debug.Log("Quest Finshed");
 
             // Win Screen Logic
+            if (questCompleted)
+            {
+                Time.timeScale = 0;
+                winScreen.enabled = true;
+            }
         }
     }
 
