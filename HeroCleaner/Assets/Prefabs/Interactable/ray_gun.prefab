@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 429023925899752287}
   - component: {fileID: 7665873221404289516}
   - component: {fileID: 6201661026119056064}
+  - component: {fileID: 632059901966902105}
   m_Layer: 0
   m_Name: ray_gun
   m_TagString: VillanOrganizeable
@@ -149,5 +150,17 @@ Rigidbody:
   m_UseGravity: 1
   m_IsKinematic: 0
   m_Interpolate: 1
-  m_Constraints: 0
+  m_Constraints: 112
   m_CollisionDetection: 1
+--- !u!114 &632059901966902105
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4779029664684828936}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5695fff9cf498474e93d60165d72d6a6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

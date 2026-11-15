@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 139300610712792796}
   - component: {fileID: 2091412903471255937}
   - component: {fileID: 2901745482167640196}
+  - component: {fileID: 4402754316410969906}
   m_Layer: 0
   m_Name: award
   m_TagString: AwardOrganizable
@@ -149,5 +150,17 @@ Rigidbody:
   m_UseGravity: 1
   m_IsKinematic: 0
   m_Interpolate: 1
-  m_Constraints: 0
+  m_Constraints: 126
   m_CollisionDetection: 1
+--- !u!114 &4402754316410969906
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7335054060087026499}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5695fff9cf498474e93d60165d72d6a6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

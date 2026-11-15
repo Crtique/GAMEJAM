@@ -3,7 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1BAD417D-D43B-305B-F945-62B2155C7435}|Assembly-CSharp.csproj|c:\\users\\je4vo\\onedrive\\documents\\github\\gamejam\\herocleaner\\assets\\scripts\\trashprompt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1BAD417D-D43B-305B-F945-62B2155C7435}|Assembly-CSharp.csproj|c:\\users\\je4vo\\onedrive\\documents\\github\\gamejam\\herocleaner\\assets\\scripts\\musicplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAD417D-D43B-305B-F945-62B2155C7435}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\musicplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAD417D-D43B-305B-F945-62B2155C7435}|Assembly-CSharp.csproj|c:\\users\\je4vo\\onedrive\\documents\\github\\gamejam\\herocleaner\\assets\\scripts\\faceplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAD417D-D43B-305B-F945-62B2155C7435}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\faceplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAD417D-D43B-305B-F945-62B2155C7435}|Assembly-CSharp.csproj|C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\assets\\scripts\\trashprompt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1BAD417D-D43B-305B-F945-62B2155C7435}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\trashprompt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -19,7 +27,7 @@
       "RelativeMoniker": "D:0:0:{1BAD417D-D43B-305B-F945-62B2155C7435}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\questscripts\\questmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BAD417D-D43B-305B-F945-62B2155C7435}|Assembly-CSharp.csproj|c:\\users\\je4vo\\onedrive\\documents\\github\\gamejam\\herocleaner\\assets\\scripts\\player scripts\\playerinteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1BAD417D-D43B-305B-F945-62B2155C7435}|Assembly-CSharp.csproj|C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\assets\\scripts\\player scripts\\playerinteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1BAD417D-D43B-305B-F945-62B2155C7435}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player scripts\\playerinteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -66,24 +74,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FacePlayer.cs",
+              "DocumentMoniker": "C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\Assets\\Scripts\\FacePlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FacePlayer.cs",
+              "ToolTip": "C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\Assets\\Scripts\\FacePlayer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FacePlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T09:12:37.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MusicPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\Assets\\Scripts\\MusicPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MusicPlayer.cs",
+              "ToolTip": "C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\Assets\\Scripts\\MusicPlayer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MusicPlayer.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAADwv4kAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T08:37:39.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "TrashPrompt.cs",
               "DocumentMoniker": "C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\Assets\\Scripts\\TrashPrompt.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\TrashPrompt.cs",
               "ToolTip": "C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\Assets\\Scripts\\TrashPrompt.cs",
               "RelativeToolTip": "Assets\\Scripts\\TrashPrompt.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-15T08:19:59.72Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-15T08:19:59.72Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "TrashCleaning.cs",
               "DocumentMoniker": "C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\Assets\\Scripts\\TrashCleaning.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\TrashCleaning.cs",
@@ -91,12 +124,11 @@
               "RelativeToolTip": "Assets\\Scripts\\TrashCleaning.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAgwCUAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-15T07:59:06.539Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-15T07:59:06.539Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "ShelfPlacements.cs",
               "DocumentMoniker": "C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\Assets\\Scripts\\PlacementScripts\\ShelfPlacements.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlacementScripts\\ShelfPlacements.cs",
@@ -108,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "QuestManager.cs",
               "DocumentMoniker": "C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\Assets\\Scripts\\QuestScripts\\QuestManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\QuestScripts\\QuestManager.cs",
@@ -116,12 +148,11 @@
               "RelativeToolTip": "Assets\\Scripts\\QuestScripts\\QuestManager.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAowC0AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-15T07:23:44.415Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-15T07:23:44.415Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Interactable.cs",
               "DocumentMoniker": "C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\Assets\\Scripts\\Interactables\\Interactable.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Interactables\\Interactable.cs",
@@ -133,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "LaundryPlacements.cs",
               "DocumentMoniker": "C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\Assets\\Scripts\\PlacementScripts\\LaundryPlacements.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlacementScripts\\LaundryPlacements.cs",
@@ -145,7 +176,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "NotePad.cs",
               "DocumentMoniker": "C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\Assets\\Scripts\\UI Scripts\\NotePad.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI Scripts\\NotePad.cs",
@@ -157,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "ShelfObjective.cs",
               "DocumentMoniker": "C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\Assets\\Scripts\\ShelfObjective.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ShelfObjective.cs",
@@ -169,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "StartingNotePadCloser.cs",
               "DocumentMoniker": "C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\Assets\\Scripts\\UI Scripts\\StartingNotePadCloser.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI Scripts\\StartingNotePadCloser.cs",
@@ -181,7 +212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "LoadingScene.cs",
               "DocumentMoniker": "C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\Assets\\Scripts\\UI Scripts\\LoadingScene.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI Scripts\\LoadingScene.cs",
@@ -189,12 +220,11 @@
               "RelativeToolTip": "Assets\\Scripts\\UI Scripts\\LoadingScene.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-14T18:34:33.884Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-14T18:34:33.884Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "MainMenu.cs",
               "DocumentMoniker": "C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\Assets\\Scripts\\UI Scripts\\MainMenu.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI Scripts\\MainMenu.cs",
@@ -206,7 +236,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "PlayerInteract.cs",
               "DocumentMoniker": "C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\Assets\\Scripts\\Player Scripts\\PlayerInteract.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player Scripts\\PlayerInteract.cs",
@@ -214,12 +244,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Player Scripts\\PlayerInteract.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAkwBkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-14T18:34:21.22Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-14T18:34:21.22Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\Assets\\Scripts\\Player Scripts\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player Scripts\\PlayerController.cs",
@@ -231,7 +260,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "MoveCamera.cs",
               "DocumentMoniker": "C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\Assets\\Scripts\\Player Scripts\\MoveCamera.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player Scripts\\MoveCamera.cs",
