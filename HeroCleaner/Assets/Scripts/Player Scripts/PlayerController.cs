@@ -17,7 +17,7 @@ public class PlayerController : MonoBehaviour
     bool isGrounded;
 
     [Header("Refrences")]
-    [SerializeField] private CharacterController controller;
+    [SerializeField] public CharacterController controller;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -46,7 +46,7 @@ public class PlayerController : MonoBehaviour
 
         Vector3 move = transform.right * moveX + transform.forward * moveZ;
 
-        controller.Move(move * moveSpeed * Time.deltaTime);
+        controller.Move(move.normalized * moveSpeed * Time.deltaTime);
 
         // Handle Gravity control
         velocity.y += gravity * Time.deltaTime;
