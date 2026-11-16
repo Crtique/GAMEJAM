@@ -127,5 +127,6 @@ public class QuestManager : MonoBehaviour
     void CompleteQuest()
     {
         questCompleted = true;
+        Cursor.lockState = CursorLockMode.None;
     }
 }

@@ -1,78 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\",
+  "WorkspaceRootPath": "C:\\Users\\je4vo\\Documents\\GitHub\\GAMEJAM\\HeroCleaner\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1BAD417D-D43B-305B-F945-62B2155C7435}|Assembly-CSharp.csproj|C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\assets\\scripts\\questscripts\\questmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1BAD417D-D43B-305B-F945-62B2155C7435}|Assembly-CSharp.csproj|c:\\users\\je4vo\\documents\\github\\gamejam\\herocleaner\\assets\\scripts\\questscripts\\questmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1BAD417D-D43B-305B-F945-62B2155C7435}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\questscripts\\questmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BAD417D-D43B-305B-F945-62B2155C7435}|Assembly-CSharp.csproj|c:\\users\\je4vo\\onedrive\\documents\\github\\gamejam\\herocleaner\\assets\\scripts\\backtoscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BAD417D-D43B-305B-F945-62B2155C7435}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\backtoscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BAD417D-D43B-305B-F945-62B2155C7435}|Assembly-CSharp.csproj|C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\assets\\scripts\\questscripts\\questui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BAD417D-D43B-305B-F945-62B2155C7435}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\questscripts\\questui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BAD417D-D43B-305B-F945-62B2155C7435}|Assembly-CSharp.csproj|C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\assets\\scripts\\player scripts\\playerinteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BAD417D-D43B-305B-F945-62B2155C7435}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player scripts\\playerinteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BAD417D-D43B-305B-F945-62B2155C7435}|Assembly-CSharp.csproj|c:\\users\\je4vo\\onedrive\\documents\\github\\gamejam\\herocleaner\\assets\\scripts\\trashcleaning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BAD417D-D43B-305B-F945-62B2155C7435}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\trashcleaning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BAD417D-D43B-305B-F945-62B2155C7435}|Assembly-CSharp.csproj|C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\assets\\scripts\\ui scripts\\notepad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BAD417D-D43B-305B-F945-62B2155C7435}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui scripts\\notepad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BAD417D-D43B-305B-F945-62B2155C7435}|Assembly-CSharp.csproj|C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\assets\\scripts\\ui scripts\\startingnotepadcloser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BAD417D-D43B-305B-F945-62B2155C7435}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui scripts\\startingnotepadcloser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BAD417D-D43B-305B-F945-62B2155C7435}|Assembly-CSharp.csproj|C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\assets\\scripts\\trashprompt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BAD417D-D43B-305B-F945-62B2155C7435}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\trashprompt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BAD417D-D43B-305B-F945-62B2155C7435}|Assembly-CSharp.csproj|C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\assets\\scripts\\musicplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BAD417D-D43B-305B-F945-62B2155C7435}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\musicplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BAD417D-D43B-305B-F945-62B2155C7435}|Assembly-CSharp.csproj|C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\assets\\scripts\\faceplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BAD417D-D43B-305B-F945-62B2155C7435}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\faceplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BAD417D-D43B-305B-F945-62B2155C7435}|Assembly-CSharp.csproj|C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\assets\\scripts\\interactables\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BAD417D-D43B-305B-F945-62B2155C7435}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactables\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BAD417D-D43B-305B-F945-62B2155C7435}|Assembly-CSharp.csproj|C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\assets\\scripts\\placementscripts\\laundryplacements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BAD417D-D43B-305B-F945-62B2155C7435}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\placementscripts\\laundryplacements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BAD417D-D43B-305B-F945-62B2155C7435}|Assembly-CSharp.csproj|C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\assets\\scripts\\ui scripts\\loadingscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BAD417D-D43B-305B-F945-62B2155C7435}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui scripts\\loadingscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BAD417D-D43B-305B-F945-62B2155C7435}|Assembly-CSharp.csproj|C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\assets\\scripts\\placementscripts\\shelfplacements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BAD417D-D43B-305B-F945-62B2155C7435}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\placementscripts\\shelfplacements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BAD417D-D43B-305B-F945-62B2155C7435}|Assembly-CSharp.csproj|C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\assets\\scripts\\player scripts\\movecamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BAD417D-D43B-305B-F945-62B2155C7435}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player scripts\\movecamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BAD417D-D43B-305B-F945-62B2155C7435}|Assembly-CSharp.csproj|C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\assets\\scripts\\player scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BAD417D-D43B-305B-F945-62B2155C7435}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BAD417D-D43B-305B-F945-62B2155C7435}|Assembly-CSharp.csproj|C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\assets\\scripts\\ui scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BAD417D-D43B-305B-F945-62B2155C7435}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BAD417D-D43B-305B-F945-62B2155C7435}|Assembly-CSharp.csproj|C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\assets\\scripts\\shelfobjective.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BAD417D-D43B-305B-F945-62B2155C7435}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shelfobjective.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,228 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BackToScreen.cs",
-              "DocumentMoniker": "C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\Assets\\Scripts\\BackToScreen.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\BackToScreen.cs",
-              "ToolTip": "C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\Assets\\Scripts\\BackToScreen.cs",
-              "RelativeToolTip": "Assets\\Scripts\\BackToScreen.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-15T21:43:08.682Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "QuestUI.cs",
-              "DocumentMoniker": "C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\Assets\\Scripts\\QuestScripts\\QuestUI.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\QuestScripts\\QuestUI.cs",
-              "ToolTip": "C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\Assets\\Scripts\\QuestScripts\\QuestUI.cs",
-              "RelativeToolTip": "Assets\\Scripts\\QuestScripts\\QuestUI.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-15T20:49:47.521Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "FacePlayer.cs",
-              "DocumentMoniker": "C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\Assets\\Scripts\\FacePlayer.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\FacePlayer.cs",
-              "ToolTip": "C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\Assets\\Scripts\\FacePlayer.cs",
-              "RelativeToolTip": "Assets\\Scripts\\FacePlayer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-15T09:12:37.637Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MusicPlayer.cs",
-              "DocumentMoniker": "C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\Assets\\Scripts\\MusicPlayer.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\MusicPlayer.cs",
-              "ToolTip": "C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\Assets\\Scripts\\MusicPlayer.cs",
-              "RelativeToolTip": "Assets\\Scripts\\MusicPlayer.cs",
-              "ViewState": "AgIAAFIAAAAAAAAAAAAswIkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-15T08:37:39.678Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "TrashPrompt.cs",
-              "DocumentMoniker": "C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\Assets\\Scripts\\TrashPrompt.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\TrashPrompt.cs",
-              "ToolTip": "C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\Assets\\Scripts\\TrashPrompt.cs",
-              "RelativeToolTip": "Assets\\Scripts\\TrashPrompt.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-15T08:19:59.72Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TrashCleaning.cs",
-              "DocumentMoniker": "C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\Assets\\Scripts\\TrashCleaning.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\TrashCleaning.cs",
-              "ToolTip": "C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\Assets\\Scripts\\TrashCleaning.cs",
-              "RelativeToolTip": "Assets\\Scripts\\TrashCleaning.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-15T07:59:06.539Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ShelfPlacements.cs",
-              "DocumentMoniker": "C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\Assets\\Scripts\\PlacementScripts\\ShelfPlacements.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlacementScripts\\ShelfPlacements.cs",
-              "ToolTip": "C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\Assets\\Scripts\\PlacementScripts\\ShelfPlacements.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlacementScripts\\ShelfPlacements.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAwwDAAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-15T07:32:55.05Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "QuestManager.cs",
-              "DocumentMoniker": "C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\Assets\\Scripts\\QuestScripts\\QuestManager.cs",
+              "DocumentMoniker": "C:\\Users\\je4vo\\Documents\\GitHub\\GAMEJAM\\HeroCleaner\\Assets\\Scripts\\QuestScripts\\QuestManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\QuestScripts\\QuestManager.cs",
-              "ToolTip": "C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\Assets\\Scripts\\QuestScripts\\QuestManager.cs",
+              "ToolTip": "C:\\Users\\je4vo\\Documents\\GitHub\\GAMEJAM\\HeroCleaner\\Assets\\Scripts\\QuestScripts\\QuestManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\QuestScripts\\QuestManager.cs",
-              "ViewState": "AgIAAGUAAAAAAAAAAAAuwHkAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAiwH0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-15T07:23:44.415Z",
+              "WhenOpened": "2026-11-16T04:37:42.305Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Interactable.cs",
-              "DocumentMoniker": "C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\Assets\\Scripts\\Interactables\\Interactable.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Interactables\\Interactable.cs",
-              "ToolTip": "C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\Assets\\Scripts\\Interactables\\Interactable.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Interactables\\Interactable.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBEAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-15T07:22:52.066Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "LaundryPlacements.cs",
-              "DocumentMoniker": "C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\Assets\\Scripts\\PlacementScripts\\LaundryPlacements.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlacementScripts\\LaundryPlacements.cs",
-              "ToolTip": "C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\Assets\\Scripts\\PlacementScripts\\LaundryPlacements.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlacementScripts\\LaundryPlacements.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-15T07:20:29.338Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "NotePad.cs",
-              "DocumentMoniker": "C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\Assets\\Scripts\\UI Scripts\\NotePad.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\UI Scripts\\NotePad.cs",
-              "ToolTip": "C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\Assets\\Scripts\\UI Scripts\\NotePad.cs",
-              "RelativeToolTip": "Assets\\Scripts\\UI Scripts\\NotePad.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-15T06:39:53.469Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ShelfObjective.cs",
-              "DocumentMoniker": "C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\Assets\\Scripts\\ShelfObjective.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ShelfObjective.cs",
-              "ToolTip": "C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\Assets\\Scripts\\ShelfObjective.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ShelfObjective.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-15T05:51:48.794Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PlayerInteract.cs",
-              "DocumentMoniker": "C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\Assets\\Scripts\\Player Scripts\\PlayerInteract.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Player Scripts\\PlayerInteract.cs",
-              "ToolTip": "C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\Assets\\Scripts\\Player Scripts\\PlayerInteract.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Player Scripts\\PlayerInteract.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAgwAAAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-14T18:34:21.22Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "StartingNotePadCloser.cs",
-              "DocumentMoniker": "C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\Assets\\Scripts\\UI Scripts\\StartingNotePadCloser.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\UI Scripts\\StartingNotePadCloser.cs",
-              "ToolTip": "C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\Assets\\Scripts\\UI Scripts\\StartingNotePadCloser.cs",
-              "RelativeToolTip": "Assets\\Scripts\\UI Scripts\\StartingNotePadCloser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-15T03:04:40.111Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "LoadingScene.cs",
-              "DocumentMoniker": "C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\Assets\\Scripts\\UI Scripts\\LoadingScene.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\UI Scripts\\LoadingScene.cs",
-              "ToolTip": "C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\Assets\\Scripts\\UI Scripts\\LoadingScene.cs",
-              "RelativeToolTip": "Assets\\Scripts\\UI Scripts\\LoadingScene.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-14T18:34:33.884Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "MainMenu.cs",
-              "DocumentMoniker": "C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\Assets\\Scripts\\UI Scripts\\MainMenu.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\UI Scripts\\MainMenu.cs",
-              "ToolTip": "C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\Assets\\Scripts\\UI Scripts\\MainMenu.cs",
-              "RelativeToolTip": "Assets\\Scripts\\UI Scripts\\MainMenu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-14T18:34:29.8Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "PlayerController.cs",
-              "DocumentMoniker": "C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\Assets\\Scripts\\Player Scripts\\PlayerController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Player Scripts\\PlayerController.cs",
-              "ToolTip": "C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\Assets\\Scripts\\Player Scripts\\PlayerController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Player Scripts\\PlayerController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAADAAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-14T02:49:50.913Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "MoveCamera.cs",
-              "DocumentMoniker": "C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\Assets\\Scripts\\Player Scripts\\MoveCamera.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Player Scripts\\MoveCamera.cs",
-              "ToolTip": "C:\\Users\\je4vo\\OneDrive\\Documents\\Github\\GAMEJAM\\HeroCleaner\\Assets\\Scripts\\Player Scripts\\MoveCamera.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Player Scripts\\MoveCamera.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-14T01:47:15.379Z"
             }
           ]
         }
